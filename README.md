@@ -1,5 +1,5 @@
 # SEELO
-C#, Unity, Python, Blender Git, GitLab - Coded in 2021. This repository describes my work as an intern for NASA Kennedy Space Center's SEELO Project.
+C#, Unity, Python, Blender Git, GitLab - Coded in 2021. This repository describes my work as an intern for NASA Kennedy Space Center's SEELO Project. All contributions on this project are property of the U.S. Government/NASA and were created on a private GitLab repository. For questions or more information, please contact through LinkedIn.
 
 [NASA TechPort: Simulated Excavation Environment for Lunar Operations (SEELO)](https://techport.nasa.gov/projects/117509)
 
