@@ -1,9 +1,9 @@
 # SEELO
 C#, Unity, Python, Blender Git, GitLab - Coded in 2021. This repository describes my work as an intern for NASA Kennedy Space Center's SEELO Project.
 
-[TechPort: Simulated Excavation Environment for Lunar Operations (SEELO)](https://techport.nasa.gov/projects/117509)
+[NASA TechPort: Simulated Excavation Environment for Lunar Operations (SEELO)](https://techport.nasa.gov/projects/117509)
 
-[NTRS: Simulated Excavation Environment for Lunar Operations](https://ntrs.nasa.gov/citations/20220018679)
+[NASA Technical Report Server (NTRS): Simulated Excavation Environment for Lunar Operations](https://ntrs.nasa.gov/citations/20220018679)
 
 From May 2021 to December 2021, I was a software developer intern for the Simulated Excavation Environment for Lunar Operations (SEELO) project at NASA's Kennedy Space Center. SEELO was a research tool developed in Unity engine to give engineers a testing environment for CAD-modeled rover designs, with the purpose of gaining insight into their performance on the lunar surface. The simulation included microgravity and regolith physics, generation of lunar terrain based on lunar orbiter data, modeling of collision physics for understanding the effects of long-term excavation, all wrapped withhin a user-friendly UI. This project was part of a research initiative for the Artemis program, an initiative to return to the Moon and identify water sources near Shackleton crater.
 
